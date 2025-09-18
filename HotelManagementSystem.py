@@ -129,4 +129,5 @@ self.bookings[roomno]['servicebill'])
                 print("Invalid choice.") 
  
 hotel = Hotel() 
+
 hotel.menu() 
